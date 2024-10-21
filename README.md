@@ -34,7 +34,7 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Kaushik Jadhav
+## Nimit Patel
 <ul>
 <li>Github:https://github.com/kaushikjadhav01</li>
 <li>Medium:https://medium.com/@kaushikjadhav01</li>
